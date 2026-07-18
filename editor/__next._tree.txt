@@ -1,0 +1,2 @@
+:HL["/majancut-pro/_next/static/chunks/8cfef14d4bbc7d34.css","style"]
+0:{"buildId":"dNaieuNv15bplR6N8btkT","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"editor","paramType":null,"paramKey":"editor","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
