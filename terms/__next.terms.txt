@@ -1,4 +1,4 @@
 1:"$Sreact.fragment"
 2:I[10291,["/majancut-pro/_next/static/chunks/de094fcd1e0ebf42.js","/majancut-pro/_next/static/chunks/dc9efe1e54741c92.js"],"default"]
 3:I[2968,["/majancut-pro/_next/static/chunks/de094fcd1e0ebf42.js","/majancut-pro/_next/static/chunks/dc9efe1e54741c92.js"],"default"]
-0:{"buildId":"IXxhL5rRqWdxhLzO5ZWDe","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"6fE796csoFTj8LE4sen6w","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}
